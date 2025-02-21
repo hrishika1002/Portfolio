@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8837cc19.css",
-    "main.js": "/Portfolio/static/js/main.177bc89d.js",
+    "main.js": "/Portfolio/static/js/main.1a02810a.js",
     "static/js/787.fb771931.chunk.js": "/Portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/photo.jpg": "/Portfolio/static/media/photo.87784470c3f3792c1994.jpg",
     "static/media/responsiveWebsite.png": "/Portfolio/static/media/responsiveWebsite.96859854f5e1348e307b.png",
     "static/media/color-sharp.png": "/Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/madhyasth.png": "/Portfolio/static/media/madhyasth.f404d36e6058b461f7c9.png",
@@ -11,7 +12,6 @@
     "static/media/natours.png": "/Portfolio/static/media/natours.bc24cfb0885e255779d5.png",
     "static/media/banner-bg.png": "/Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/password.png": "/Portfolio/static/media/password.7e3a529ff113fe8cd565.png",
-    "static/media/photo.jpg": "/Portfolio/static/media/photo.c4a5c573831a6fd32b3e.jpg",
     "static/media/social.png": "/Portfolio/static/media/social.881786db712d60974181.png",
     "static/media/thisdice.png": "/Portfolio/static/media/thisdice.d159c3f1e4ee3a08b183.png",
     "static/media/CentraNo2-Bold.ttf": "/Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -31,11 +31,11 @@
     "index.html": "/Portfolio/index.html",
     "static/media/nav-icon1.svg": "/Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.8837cc19.css.map": "/Portfolio/static/css/main.8837cc19.css.map",
-    "main.177bc89d.js.map": "/Portfolio/static/js/main.177bc89d.js.map",
+    "main.1a02810a.js.map": "/Portfolio/static/js/main.1a02810a.js.map",
     "787.fb771931.chunk.js.map": "/Portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8837cc19.css",
-    "static/js/main.177bc89d.js"
+    "static/js/main.1a02810a.js"
   ]
 }
