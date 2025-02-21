@@ -47,13 +47,13 @@ export const Projects = () => {
       title: 'Notes Maker',
       description: 'Design & Development',
       imgUrl: notesImg,
-      link: 'https://vaibhav2536.github.io/Notes-App/'
+      link: 'https://hrishika1002.github.io/Notes-Maker/'
     },
     {
       title: 'Password Generator',
       description: 'Design & Development',
       imgUrl: passwordImg,
-      link: 'https://vaibhav2536.github.io/Password-Generator/'
+      link: 'https://hrishika1002.github.io/Password-Generator/'
     },
     // {
     //   title: 'Madhyasth',
@@ -61,30 +61,30 @@ export const Projects = () => {
     //   imgUrl: madhyasthImg,
     //   link: 'https://github.com/vaibhav2536/Madhyasth'
     // },
-    {
-      title: 'Dice challenge',
-      description: 'Design & Development',
-      imgUrl: DicEchallengeImg,
-      link: 'https://vaibhav2536.github.io/dice-game/'
-    },
-    {
-      title: 'Drum Kit',
-      description: 'Design & Development',
-      imgUrl: DrumkitImg,
-      link: 'https://vaibhav2536.github.io/Drumkit/'
-    },
-    {
-      title: 'TinDog',
-      description: 'Design & Development',
-      imgUrl: TinDogImg,
-      link: 'https://vaibhav2536.github.io/TinDog/'
-    },
-    {
-      title: 'Responsive Website',
-      description: 'Design & Development',
-      imgUrl: responsiveWebsiteImg,
-      link: 'https://vaibhav2536.github.io/responsive-website/'
-    },
+    // {
+    //   title: 'Dice challenge',
+    //   description: 'Design & Development',
+    //   imgUrl: DicEchallengeImg,
+    //   link: 'https://vaibhav2536.github.io/dice-game/'
+    // },
+    // {
+    //   title: 'Drum Kit',
+    //   description: 'Design & Development',
+    //   imgUrl: DrumkitImg,
+    //   link: 'https://vaibhav2536.github.io/Drumkit/'
+    // },
+    // {
+    //   title: 'TinDog',
+    //   description: 'Design & Development',
+    //   imgUrl: TinDogImg,
+    //   link: 'https://vaibhav2536.github.io/TinDog/'
+    // },
+    // {
+    //   title: 'Responsive Website',
+    //   description: 'Design & Development',
+    //   imgUrl: responsiveWebsiteImg,
+    //   link: 'https://vaibhav2536.github.io/responsive-website/'
+    // },
   ];
 
   return (
